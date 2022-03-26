@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="100"/>
 </div>
 
+![edrickkesuma](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{edrickkesuma})
+
 <!--
 **IceFrog-sama/IceFrog-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
