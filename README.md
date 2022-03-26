@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="100"/>
 </div>
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/discussion/light)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/discussion)
 
 <!--
 **IceFrog-sama/IceFrog-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
