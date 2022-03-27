@@ -43,8 +43,10 @@
     <img src="https://media.giphy.com/media/cAWZev5IHRGJHbD9PN/giphy.gif" width="30px"/>
   </h1>
   
-  ![edrickkesuma](https://road-to-kaggle-grandmaster.vercel.app/api/simple/edrickkesuma)
-
+  <p>
+    I am currently a 
+    ![edrickkesuma](https://road-to-kaggle-grandmaster.vercel.app/api/simple/edrickkesuma)
+  </p>
   ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/competition)
   ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/dataset)
   ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/notebook)
