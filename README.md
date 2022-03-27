@@ -5,6 +5,7 @@
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle Badge"/>
 </div>
 
 ![edrickkesuma](https://road-to-kaggle-grandmaster.vercel.app/api/simple/edrickkesuma)
