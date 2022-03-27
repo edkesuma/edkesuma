@@ -20,7 +20,7 @@
 
   <h1>
     My Kaggle stats
-    <img src="https://media.giphy.com/media/F0RAWnqgJ1f6IzXi9U/giphy.gif" width"30px"/>
+    <img src="https://media.giphy.com/media/F0RAWnqgJ1f6IzXi9U/giphy.gif" width="30px"/>
   </h1>
   
   ![edrickkesuma](https://road-to-kaggle-grandmaster.vercel.app/api/simple/edrickkesuma)
