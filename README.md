@@ -2,7 +2,10 @@
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300"/>
 </div>
 
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+</div>
 
 ![edrickkesuma](https://road-to-kaggle-grandmaster.vercel.app/api/simple/edrickkesuma)
 
