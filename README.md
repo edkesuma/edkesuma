@@ -21,6 +21,19 @@
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
+  
+  ---
+
+  ### :man_technologist: About Me :
+  I am a Student <img src="https://media.giphy.com/media/FUV7v2EMy9zMXRePa0/giphy.gif" width="30"> from Indonesia.
+  
+  - :telescope: I’m a student at SIM-UOW with a major in Big Data.
+
+  - :seedling: I'm currently learning Machine Learning and Deep Learning.
+
+  - :zap: In my free time, I compete on Kaggle competitions.
+
+  - :mailbox: How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/edkesuma)
 
   <h1>
     My Kaggle stats
