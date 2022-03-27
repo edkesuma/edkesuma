@@ -43,7 +43,8 @@
     <img src="https://media.giphy.com/media/cAWZev5IHRGJHbD9PN/giphy.gif" width="30px"/>
   </h1>
   
-  <p> I am currently a </p>
+  <h4> I am currently a </h4>
+  
   ![edrickkesuma](https://road-to-kaggle-grandmaster.vercel.app/api/simple/edrickkesuma)
   
   ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/competition)
