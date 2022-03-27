@@ -22,6 +22,8 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
   
+  </div>
+  
   ---
 
   ### :man_technologist: About Me :
@@ -35,6 +37,7 @@
 
   - :mailbox: How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/edkesuma)
 
+<div id="header" align="center">
   <h1>
     My Kaggle stats
     <img src="https://media.giphy.com/media/cAWZev5IHRGJHbD9PN/giphy.gif" width="30px"/>
@@ -47,7 +50,6 @@
   ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/notebook)
   ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/discussion)
 </div>
-
 
 
 <!--
