@@ -35,7 +35,7 @@
 
   - :zap: In my free time, I compete on Kaggle competitions.
 
-  - :mailbox: How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/edkesuma)
+  - :mailbox: How to reach me: [![Twitter Badge](https://img.shields.io/badge/@edkesuma-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/edkesuma)
 
 <div id="header" align="center">
   <h1>
