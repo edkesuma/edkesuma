@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300"/>
 </div>
 
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+
 ![edrickkesuma](https://road-to-kaggle-grandmaster.vercel.app/api/simple/edrickkesuma)
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/competition)
