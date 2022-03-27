@@ -29,7 +29,7 @@
   ### :man_technologist: About Me :
   I am a Student <img src="https://media.giphy.com/media/FUV7v2EMy9zMXRePa0/giphy.gif" width="30"> from Indonesia.
   
-  - :telescope: I’m a student at SIM-UOW with a major in Big Data.
+  - :telescope: I’m a CS student at SIM-UOW with a major in Big Data.
 
   - :seedling: I'm currently learning Machine Learning and Deep Learning.
 
@@ -39,7 +39,7 @@
 
 <div id="header" align="center">
   <h1>
-    My Kaggle stats
+    My Kaggle Stats
     <img src="https://media.giphy.com/media/cAWZev5IHRGJHbD9PN/giphy.gif" width="30px"/>
   </h1>
   
