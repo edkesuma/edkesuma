@@ -37,18 +37,6 @@
 
   - :mailbox: How to reach me: [![Twitter Badge](https://img.shields.io/badge/@edkesuma-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/edkesuma)
 
-<div id="header" align="center">
-  <h1>
-    My Kaggle Stats
-    <img src="https://media.giphy.com/media/cAWZev5IHRGJHbD9PN/giphy.gif" width="30px"/>
-  </h1>
-  
-  ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/competition)
-  ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/dataset)
-  ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/notebook)
-  ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/discussion)
-</div>
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -62,6 +50,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
 </div>
+
+<div id="header" align="center">
+  <h1>
+    My Kaggle Stats
+    <img src="https://media.giphy.com/media/cAWZev5IHRGJHbD9PN/giphy.gif" width="30px"/>
+  </h1>
+  
+  ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/competition)
+  ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/dataset)
+  ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/notebook)
+  ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/discussion)
+</div>
+
+
 
 <!--
 **IceFrog-sama/IceFrog-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
