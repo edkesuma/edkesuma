@@ -41,7 +41,7 @@
 <div id="header" align="center">
   <h1>
     My Kaggle Stats
-    <img src="https://media.giphy.com/media/cAWZev5IHRGJHbD9PN/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/cAWZev5IHRGJHbD9PN/giphy.gif" width="30"/>
   </h1>
   
   ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/competition)
