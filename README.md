@@ -27,7 +27,7 @@
   ---
 
   ### :man_technologist: About Me :
-  I am a Student <img src="https://media.giphy.com/media/FUV7v2EMy9zMXRePa0/giphy.gif" width="30"> from Indonesia.
+  I am a Student <img src="https://media.giphy.com/media/FUV7v2EMy9zMXRePa0/giphy.gif" width="30"> from Indonesia studying in Singapore.
   
   - :telescope: I’m a CS student at SIM-UOW with a major in Big Data.
 
